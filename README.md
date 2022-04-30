@@ -1,16 +1,12 @@
+<html style="background-color:black;color:white">
 # razorpay_integration_flutter_1
+In this study, [Razorpay](https://razorpay.com/) integration was made.
+#### Package : [razorpay_flutter](https://pub.dev/packages/razorpay_flutter)
 
-A new Flutter project.
+## [![Razorpay](https://next.razorpay.com/build/browser/static/razorpay-logo-white.c637804f.svg)](https://razorpay.com/)
+Razorpay is the only payments solution in India that allows businesses to accept, process and disburse payments with its product suite. It gives you access to all payment modes including credit card, debit card, netbanking, UPI and popular wallets including JioMoney, Mobikwik, Airtel Money, FreeCharge, Ola Money and PayZapp.
 
-## Getting Started
+RazorpayX supercharges your business banking experience, bringing effectiveness, efficiency, and excellence to all financial processes. With RazorpayX, businesses can get access to fully-functional current accounts, supercharge their payouts and automate payroll compliance.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Manage your marketplace, automate bank transfers, collect recurring payments, share invoices with customers and avail working capital loans - all from a single platform. Fast forward your business with Razorpay. [_Razorpay - Best Payment Gateway for Online Payments - India_. (n.d.). Razorpay. Retrieved April 30, 2022, from https://razorpay.com/]
+</html>
